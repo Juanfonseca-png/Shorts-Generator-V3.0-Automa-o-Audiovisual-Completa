@@ -1,0 +1,22 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Variáveis de Ambiente e Credenciais (CRÍTICO)
+.env
+client_secrets.json
+
+# Diretório de Saídas, Tokens e Logs
+outputs/
+app.log
+
+# Caches e Arquivos Temporários
+__pycache__/
+*.pyc
+.pytest_cache/
+playwright_profile/
+
+# Builds do Sistema Operacional
+.DS_Store
+Thumbs.db
