@@ -38,10 +38,7 @@ Este projeto foi construído para lidar com gargalos reais de produção de cont
 **Pré-requisitos:** Python 3.10+, FFmpeg configurado no `PATH` e Microsoft Edge.
 
 1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/horror-shorts-generator-v3.git](https://github.com/seu-usuario/horror-shorts-generator-v3.git)
-   cd horror-shorts-generator-v3
-
+  
 1-Crie o ambiente virtual e instale as dependências:
 
 Bash
